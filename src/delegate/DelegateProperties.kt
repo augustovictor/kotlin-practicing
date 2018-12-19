@@ -1,0 +1,4 @@
+package delegate
+
+class DelegateProperties {
+}
